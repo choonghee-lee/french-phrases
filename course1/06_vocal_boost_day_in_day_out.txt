@@ -1,0 +1,53 @@
+lundi
+Monday
+
+mardi
+Tuesday
+
+mercredi
+Wednesday
+
+jeudi
+Thursday
+
+vendredi
+Friday
+
+samedi
+Saturday
+
+dimanche
+Sunday
+
+un jour férié
+a bank holiday
+
+une semaine
+a week
+
+un mois
+a month
+
+une saison
+a season
+
+le matin
+the morning (moment)
+
+en matinée
+in the morning (duration)
+
+l'après-midi
+the afternoon
+
+le soir
+the evening (moment)
+
+en soirée
+in the evening (duration)
+
+l'aube
+dawn
+
+le crépuscule
+dusk
