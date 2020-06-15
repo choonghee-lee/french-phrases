@@ -1,0 +1,60 @@
+
+vingt-et-un
+twenty-one
+
+vingt-deux
+twenty-two
+
+vingt-trois
+twenty-three
+
+vingt-quatre
+twenty-four
+
+vingt-cinq
+twenty-five
+
+vingt-six
+twenty-six
+
+vingt-sept
+twenty-seven
+
+vingt-huit
+twenty-eight
+
+vingt-neuf
+twenty-nine
+
+trente
+thirty
+
+quarante
+forty
+
+cinquante
+fifty
+
+soixante
+sixty
+
+soixante-dix
+seventy
+
+quatre-vingts
+eighty
+
+quatre-vingt-dix
+ninety
+
+cent
+a hundred
+
+mille
+a thousand
+
+deux mille
+two thousands
+
+un million
+a million
