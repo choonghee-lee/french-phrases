@@ -1,0 +1,44 @@
+une couleur
+a color
+
+noir
+black
+
+blanc
+white
+
+bleu
+blue
+
+rouge
+red
+
+vert
+green
+
+jaune
+yellow
+
+violet
+purple
+
+marron
+maroon
+
+bordeaux
+burgundy
+
+rose
+pink
+
+orange foncé
+dark orange
+
+brun clair
+light brown
+
+vert pâle
+pale green
+
+bleu ciel
+sky blue
