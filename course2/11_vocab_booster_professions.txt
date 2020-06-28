@@ -1,0 +1,41 @@
+un pompier; une pompière
+a fireman; a firewoman
+
+un infirmier; une infirmière
+a nurse
+
+un pharmacien; une pharmacienne
+a pharmacist
+
+un photographe; une photographe
+a photographer
+
+un écrivain; une écrivaine
+a writer
+
+un cuistot; une cuistot
+a cook
+
+un architecte; une architecte
+an architect
+
+un vétérinaire; une vétérinaire
+a vet
+
+un éducateur; une éducatrice
+an educator
+
+un designer; une designer
+a designer
+
+un psychologue; une psychologue
+a psychologist
+
+un réalisateur; une réalisatrice
+a film director
+
+un avocat; une avocate
+a lawyer
+
+un homme politique; une femme politique
+a politician
