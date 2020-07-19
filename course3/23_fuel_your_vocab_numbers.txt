@@ -1,0 +1,29 @@
+premier
+first; 1st
+
+deuxième
+second; 2nd
+
+troisième
+third; 3rd
+
+quatrième
+fourth; 4th
+
+cinquième
+fifth; 5th
+
+sixième
+sixth; 6th
+
+septième
+seventh; 7th
+
+huitième
+eighth; 8th
+
+neuvième
+ninth; 9th
+
+dixième
+tenth; 10th

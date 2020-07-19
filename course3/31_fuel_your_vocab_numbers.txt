@@ -1,0 +1,14 @@
+mille
+1,000
+
+deux mille
+2,000
+
+deux mille un
+2,001 (number); 2001 (year)
+
+deux mille dix-sept
+2,017 (number); 2017 (year)
+
+mille neuf cent quarante-cinq
+1,945 (number); 1945 (year)
